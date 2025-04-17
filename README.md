@@ -145,7 +145,7 @@ Comprehensive error handling includes:
 
 ## License
 
-[Your License Here]
+MIT License
 
 ## Disclaimer
 
