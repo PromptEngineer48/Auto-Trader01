@@ -1,0 +1,6 @@
+delta-rest-client
+requests
+datetime
+websocket-client
+pandas
+psutil
